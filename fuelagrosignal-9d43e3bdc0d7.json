@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fuelagrosignal",
+  "private_key_id": "9d43e3bdc0d75a9566d7118b878de9ac5413f85b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCi+N891cDukwlv\nROUaK2AzLo0aJWEkZK9T0UJPo0XG4TZS+FcSyRigE0zSHpZMQ0MJ+1C7IPCs5fuQ\nKfxhvmRwjDPBXzIa5lZn07uWYZOxTQirtxuDIAL+T9/h5aKoRBPDGv4Dbro6Etcs\nxQLRSjGBy4tCJgxTqEZBTJjOMwwAR8pR/Ah2x6MhYUE7huwRRxjpUpJuOlOTYB8n\n21z2vVXeyNu8K5Xai6SgexVC+3WkmhIp47L2MqCklHePozfxHjE+TGSwHEfBhn/n\nN/injjciozPw8ry9E0PPoG6M7NT+9a/b8n3AOAKbyQDis0P4+PIHD9EZN3vCgxc6\nS7nJcwTLAgMBAAECggEANwvIm6IvYGXZsfObTpOIEsGOd15YyWoYrj7oHu4PC3XW\nW3/2KSozXx4lvHMIYQn3AtAYHJyrrjqgFbmYvYsJcdppQM9epSdX2An0On8K28Ah\nRZ67dDbDzBI+lJZzslIMOsJLOe2UiTkD5ONGaFqfDjAqAVXIpBkaYcP1ePBVBWKw\nIplbZvjlT8b33LOf1o1NLVtlD8qZO3AbuAfjRYw9ZXoH4k2IaXSmBGS+aBAZLkBa\nMqUq4CDUfNthBkP/5kvFYLQnHLaSMh5j2KYu+5/P4nJoAG00+KVQKRf+3b0GQAd4\nHWWI1L34vMwUJ9mlXMkm9X3z36v/PoiE3g9kN9magQKBgQDUw9KaPfbR1Nc2i5y8\n/VoePyo9SLaTG+KHfnCFB7g01Gw+Vfu4HR/vZua6Nzb8LfUwpt9t/4GsUhrI5H/8\ngMefLm7PFktz41JNrI9LyOnJe3AfEv2zYVMpd+ZmtOOpwxfR37sMLbZMGfO4s1y2\n89I7t3YSIfzs4YJJ402WpD3i2QKBgQDEFsuMAl1lmV98uHqNsxdm+UExNltm1q1X\ni2ZFmSsHHYUTfute6HnekaAqavyefXkFjzyMsnY+dOTYAWZUZHQKp6vnYKpx4eXb\nLg2GdBMKWqjsIDuom79CyrnYl8hcBoJ0639xo3OWL57eqvgHWSz1y206gYvNZHmv\nYU47fJIWQwKBgCa9hTJah/+K7qja4O40f100iR9hhwTgNe4P4rMGRc8wwojTJSNQ\nAkmYBfjwJs3iHFwAdnxT4quaw4/Cs18pn69nR/vjBlgSkyDbg7f73D24gSDXV2R7\nGyZY05Xt5+o4QLURNMCx7hiLPSprVj1lxejjrdb9Y01KfmuvvKfqPe55AoGAWHvE\ny+ABTyhfa0M/ohNvevr8zP0vT3+N5tQziTJttR8//qUmBsS2wZVLBfkTF12dL8IL\n251oOBS9cy9mgqx1pJ02uAjpwMvj0fy9A6/7K4/va+W7pgDp1HTwWelb8xLI6YOf\nFaNhNCM2+FmD5KT74coy9tSgRkWRl288QyGaNksCgYBPQZSm85CcAH6kNqx7HpXY\nkgSmblrDsPwE5V0ZP6c5EiR6Q6ARKoNVAbSPeMOVXK0OSgEwFSw1sT5X+pAnj2LG\nYHBWZNvSY8bULOw87tnPM/xOKwtjQLVERDnMxdJHH1DOwAYihSEoqPuNH189aIlI\n5kNsUND3vTxCdvK5mXzi5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fuelcheck@fuelagrosignal.iam.gserviceaccount.com",
+  "client_id": "105714876672865988093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fuelcheck%40fuelagrosignal.iam.gserviceaccount.com"
+}
