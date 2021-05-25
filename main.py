@@ -17,7 +17,6 @@ headers = gs.service.spreadsheets().values().get(spreadsheetId=gs.spreadsheet_id
 for x in range(1, last_row_B):
     values_from_sheets.append(gs.service.spreadsheets().values().get(spreadsheetId=gs.spreadsheet_id, range="B"+str(x)+":G"+str(x)).execute()['values'])
 
-print(values_from_sheets)
 
 
 
